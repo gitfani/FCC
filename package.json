@@ -11,6 +11,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
+	"license": "for private use only",
 	"keywords": [ "descriptive", "freecodecamp", "words" ],
 	"description": "A project that does something awesome",
 	"author": "Fani Rozenberg" 
